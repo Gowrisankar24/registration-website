@@ -1,0 +1,12 @@
+.App {
+  font-family: Roboto,sans-serif;
+}
+h2 {
+  font-size: 20px;
+  padding: 10px;
+  border-bottom: 1px solid grey;
+}
+h3 {
+  font-size: 15px;
+  padding: 10px;
+}
